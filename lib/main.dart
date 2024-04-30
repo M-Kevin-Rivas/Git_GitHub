@@ -68,5 +68,5 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
-//Jorge Salgads
+//Jorge Salgado
 //Kevin Rivas
